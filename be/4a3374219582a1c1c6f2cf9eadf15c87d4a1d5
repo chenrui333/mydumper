@@ -1,0 +1,19 @@
+src/mydumper/mydumper_file_handler.c
+  s_87e9a83978736d::t_6df356c438a095 22,335
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "be4a3374219582a1c1c6f2cf9eadf15c87d4a1d5",
+  "prompts": {},
+  "sessions": {
+    "s_87e9a83978736d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a10d3b-5cdd-76d0-b05d-4b2d5929cf4c",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
